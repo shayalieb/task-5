@@ -29,6 +29,8 @@
 <li>Take pictures from the devices camera and send them</li>
 <li>Store images in Firebase Cloud Storage</li>
 <li>Use the devices location data</li>
+<li>Location data is sent in a map view</li>
+<li>Functionality is created using Gifted Chat Library</li>
 </il>
 <br>
 
