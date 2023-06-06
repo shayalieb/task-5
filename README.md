@@ -1,4 +1,4 @@
-<b>chatApp</b>
+<h1>chatApp</h1>
 <br>
 <h3>User stories</h3>
 <ul>
